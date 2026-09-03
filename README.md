@@ -106,7 +106,7 @@ The project includes visualisations of:
 ##  Project Structure
 
 ```text
-Southwest-Airlines-Financial-Analysis/
+Southwest-Airlines-Financial-Performance-Analysis-1995-2025
 │
 ├── Southwest_Airlines_Financial_Analysis.ipynb
 └── README.md
