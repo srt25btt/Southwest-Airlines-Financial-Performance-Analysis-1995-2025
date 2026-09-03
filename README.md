@@ -110,6 +110,3 @@ Southwest-Airlines-Financial-Analysis/
 │
 ├── Southwest_Airlines_Financial_Analysis.ipynb
 └── README.md
-``
-Sc Banking and Fintech Student
-Bangor University
